@@ -25,4 +25,4 @@
 
 1. "Ask an IT Question or Seek Advice"
 
-These names are designed to be clear and intuitive for end-users, making it easier for them to select the appropriate request type when seeking help from the IT Service Desk.
+These names are designed to be clear and intuitive for end-users, making it easier for them to select the appropriate request type when seeking help from the IT Service.
